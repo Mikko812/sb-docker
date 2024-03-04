@@ -7,4 +7,4 @@
 Этот этап также затруднений не вызвал.
 
 ## 3. Создание Docker-образа.
-![](screenshots/1 build.png)
+![](screenshots/1build.png)
