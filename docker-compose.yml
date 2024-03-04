@@ -1,0 +1,7 @@
+version: "3"
+services:
+  fib:   # project name
+    build:
+      context: .   # get all files from folder
+      dockerfile: Dockerfile   # make image from Dockerfile
+    command: python3 ./main.py   # run command after start
